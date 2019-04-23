@@ -1,0 +1,23 @@
+body{
+	font:'raleway',san-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	letter-spacing: .5em;
+	top:15%;
+	background: linear-gradient(to left,#fa054f,#00ff00)
+}
+h1{
+	font:600 3.5em 'raleway',san-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width: 100%;
+}
+h3{
+	font: 500 3.5em 'raleway',san-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: .01em;
+}
